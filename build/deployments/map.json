@@ -1,0 +1,54 @@
+{
+  "1": {
+    "GyroToken": [
+      "0x799f90e2B828d0dE586f1cFb3e2A31785b08414E"
+    ],
+    "GyroTokenProxy": [
+      "0x70c4430f9d98B4184A4ef3E44CE10c320a8B7383"
+    ],
+    "ProxyAdmin": [
+      "0x02a73e222b18e1b85dd6998ddab5d7e02E2374Ac"
+    ]
+  },
+  "137": {
+    "GyroToken": [
+      "0x40485894D6dE82596Fadc7c148D63cBED9D4855f"
+    ],
+    "GyroTokenProxy": [
+      "0x815c288dD62a761025f69B7dac2C93143Da4c0a8"
+    ]
+  },
+  "42": {
+    "GyroToken": [
+      "0xa97B46908361CcD123CD39b4A139f8ca438Df32a"
+    ],
+    "GyroTokenProxy": [
+      "0xc304FE3ade40f19821db8027C9C2b5acCc0b5BA7"
+    ],
+    "ProxyAdmin": [
+      "0x32B2682d1dd57c96C46875747C57CD346de2233B"
+    ]
+  },
+  "42161": {
+    "GyroArbitrumTokenProxy": [
+      "0xf59D9596CA2F8c2cCaE78A5AFe1fc446cbe6f75A"
+    ],
+    "GyroTokenArbitrum": [
+      "0x7005E86a1D25A12D7dae1EE1AFfDdf68f0Fa1075"
+    ],
+    "ProxyAdmin": [
+      "0xaf24BFD866860800121d4268aEEC90357C3e0cc4"
+    ]
+  },
+  "421611": {
+    "GyroArbitrumTokenProxy": [
+      "0xBCD841c5de13D7ED754D51EB6887607dF1C1BeF6"
+    ],
+    "GyroTokenArbitrum": [
+      "0xd8Fb3536F7f20bF451f42E017732053C427F90Df"
+    ],
+    "ProxyAdmin": [
+      "0xc6f1F175238178df5b7d8E77A95b49eBf71e33e2"
+    ]
+  }
+}
